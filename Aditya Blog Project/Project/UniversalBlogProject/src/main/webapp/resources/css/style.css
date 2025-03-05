@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+
+body {
+	background: #222831 !important;
+}
+
+.primary-background {
+	background: #00ADB5 !important;
+	color: #eee !important;
+}
+
